@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "name": "sakshi",
+        "email": "sakshi@gmail.com",
+        "address": "mirganj",
+        "contact": "7878787878",
+        "qualification": "12"
+    },
+   {
+        "id": "2",
+        "name": "srishti",
+        "email": "srishti@gmail.com",
+        "address": "bihar",
+        "contact": "9090909090",
+        "qualification": "12"
+    }
+]
