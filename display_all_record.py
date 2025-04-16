@@ -1,20 +1,4 @@
-# import json
-# import os 
 
-# def display_all_students():
-#     print("\n--- All Student Records ---")
-#     try:
-#         with open("students.json", "r") as f:
-#             records = f.readlines()
-#             if records:
-#                 for line in records:
-#                     data = line.strip().split(",")
-#                     if len(data) == 6:
-#                     print (f"ID: {data[0]}, Name: {data[1]}, Email: {data[2]}, Address: {data[3]}, Contact: {data[4]}, Qualification: {data[5]}")
-#             else:
-#                 print("No records found.")
-#     except FileNotFoundError:
-#         print("Student.txt records not found.")
 
 import json
 import os
